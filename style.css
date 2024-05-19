@@ -1,0 +1,73 @@
+body, html  {
+            padding: 0;
+            margin: 0;
+            background-color: rgb(124, 156, 107) ;
+}
+#titulo {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    line-height: 1.5%;
+}
+   
+#subtitulo  {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        line-height: 1.5%;
+        font-family: 'Playfair Display', serif;
+        }
+
+#texto-um   {
+            font-size: 25px;
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+            }
+
+#texto-dois {
+            font-size: 25px;
+            padding: 10px;
+            max-width: 700px; 
+            }
+
+#texto-tres {
+            font-size: 25px;
+            padding: 10px;
+            max-width: 700px; 
+            }
+
+td, th      {
+            font-size: 25px;
+            text-align: center;
+            padding: 15px;
+            border-radius: 5px solid;
+            border: 1px solid;
+            border-color: black;
+            }
+
+caption     {
+            font-size: 40px;
+            }
+
+#texto-quatro {
+    font-size: 25px;
+    padding: 10px;
+    max-width: 700px; 
+            }
+
+#texto-cinco{
+            font-size: 25px;
+            padding: 10px;
+            max-width:700px; 
+            }
+
+#texto-seis {
+            font-size: 25px;
+            padding: 10px;
+            max-width: 700px;
+            }
